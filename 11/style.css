@@ -10,11 +10,12 @@ html, body {
 html, body, canvas {
 	touch-action: none;
 	touch-action-delay: none;
-	a {
-	color:white;
-	}
+	
 }
-
+a {
+	color:white;
+		 text-align: center;
+	}
 #notSupportedWrap {
 	margin: 2em auto 1em auto;
 	width: 75%;
