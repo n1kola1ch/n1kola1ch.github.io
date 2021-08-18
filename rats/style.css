@@ -11,6 +11,10 @@ html, body, canvas {
 	touch-action: none;
 	touch-action-delay: none;
 }
+a
+{
+color: white;
+}
 
 #notSupportedWrap {
 	margin: 2em auto 1em auto;
